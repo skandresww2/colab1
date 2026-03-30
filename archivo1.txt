@@ -3,4 +3,8 @@ Texto de mi archivo inicial
 Editando desde github.
 
 
+
 Cambio realizado en Local
+
+Cambio realizado en GitHub (rama main)
+
